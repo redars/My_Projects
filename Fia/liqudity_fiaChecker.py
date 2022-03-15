@@ -5,7 +5,7 @@ Created on Wed Jan  5 03:40:16 2022
 @author: arsko
 """
 
-#### It checks if it's added enough liqudity. then it trades all tokens with the best price of it
+#### It checks if it's added enough liqudity on pancakeswap. then it trades all tokens with the best price
 
 import requests
 import json
