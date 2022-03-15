@@ -5,6 +5,8 @@ Created on Wed Jan  5 03:40:16 2022
 @author: arsko
 """
 
+#### It checks if it's added enough liqudity. then it trades all tokens with the best price of it
+
 import requests
 import json
 from web3 import Web3
