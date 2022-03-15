@@ -4,7 +4,7 @@ Created on Sat Nov 13 18:18:40 2021
 
 @author: arsko
 """
-
+###### Get data to draw graphs
 import requests
 import json
 import time
